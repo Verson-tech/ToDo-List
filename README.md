@@ -1,4 +1,3 @@
-<strong><em>ToDo-List</em></strong>  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgkfsE7mD5MhrwuNVZ7CsWYB28M6sI86zghQ&usqp=CAU)
 
 # <h1><strong><em>Project Title:</em></strong><h1>ToDo-List</H1></H1>
