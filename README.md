@@ -1,5 +1,5 @@
 <strong><em>ToDo-List</em></strong>  
-![ToDo-List](https://i.pinimg.com/originals/2d/61/d1/2d61d160b98c3f83dd14d0ad9a01584f.jpg)
+![ToDo-List](https://i.pcmag.com/imagery/articles/05hXk1J5R4iHWkM13wqrr9M-7.fit_lim.size_1050x.jpg)
 
 # <h1><strong><em>Project Title:</em></strong><h1>ToDo-List</H1></H1>
 <strong><em>Description of Project:</em></strong> ToDo-List<br>
