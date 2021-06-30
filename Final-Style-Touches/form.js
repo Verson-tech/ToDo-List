@@ -1,22 +1,23 @@
 // user input - includes validation
-function TodoForm({addTodo}){
-  const [value,setValue] = React.useState('');
-  
-  const handleSubmit = e => {
+function TodoForm({ addTodo }) {
+  const [value, setValue] = React.useState("");
+
+  const handleSubmit = (e) => {
     e.preventDefault();
-    if(!value) return;
+    if (!value) return;
     addTodo(value);
-    setValue('');
-  }
+    setValue("");
+  };
 
   return (
     <form onSubmit={handleSubmit}>
-      <input 
+      <input
         type="text"
         className="input"
         value={value}
-        placeholder="Add Todo..."
-        onChange={e => setValue(e.target.value)} />
+        placeholder="Add To-Do..."
+        onChange={(e) => setValue(e.target.value)}
+      />
     </form>
-  )
+  );
 }
